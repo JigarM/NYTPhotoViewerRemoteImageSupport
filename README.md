@@ -1,5 +1,7 @@
 
 # NYTPhotoViewerRemoteImageSupport
+![Platform](http://cocoapod-badges.herokuapp.com/p/NYTPhotoViewer/badge.png)
+
 NYTPhotoViewer is a slideshow and image viewer that includes double-tap to zoom, captions, support for multiple images, interactive flick to dismiss, animated zooming presentation, and more.
 
 A modern photo viewing experience for iOS. User can do followed things with this library.
